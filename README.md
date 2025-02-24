@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v1bh475u&label=Profile%20views&color=0e75b6&style=flat" alt="v1bh475u" /> </p>
 
-- 🔭 I’m currently working on **Nand2Tetris**
-
-- 🌱 I’m currently learning **System programming**
+- 🌱 I’m currently learning about **Operating System** and **Theory of Computation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
