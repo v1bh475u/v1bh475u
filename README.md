@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maulik Barot</h1>
 <h3 align="center">A guy interested in low level programming and reverse engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=v1bh475u&label=Profile%20views&color=0e75b6&style=flat" alt="v1bh475u" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhatsu29&label=Profile%20views&color=0e75b6&style=flat" alt="vibhatsu29" /> </p>
 
 - 🌱 I’m currently learning about **Operating System** and **Theory of Computation**
 
