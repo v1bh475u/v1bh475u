@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/PTRACE_TRACE_ME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v1bh4t5u" height="30" width="40" /></a>
+<a href="https://x.com/PTRACE_TRACEME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v1bh4t5u" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/maulik-barot-3855622a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maulik-barot-3855622a6" height="30" width="40" /></a>
 </p>
 
