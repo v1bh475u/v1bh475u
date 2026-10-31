@@ -15,4 +15,5 @@
 ## GitHub Stats:
 <p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=v1bh475u&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=donut&exclude_repo=BEE-102-Spring-2025-Assignment,Heart-Disease-Data-Analysis" alt="v1bh475u" /></p>
 <p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=v1bh475u&show_icons=true&theme=dracula&locale=en" alt="v1bh475u" /></p>
+<img src="koi/koi.gif" width="256" alt="My koi" />
 
